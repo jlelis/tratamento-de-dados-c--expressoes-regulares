@@ -1,5 +1,5 @@
 # Curso Alura - PHP
-#### tratamento de strings formulários
+#### PHP Strings: Operações e expressões regulares
 
 Tratamentos de string visa ter uma maior cautela das manipulações de dados ao inserir numa base dados, mantendo seus dados mais limpos possiveis.
 
